@@ -1,0 +1,53 @@
+.header{
+   background: white;
+   padding:5px;
+   text-align: center;
+}
+.image{
+
+  position: absolute;
+  right: 1400px;
+  top: 10px;
+
+}
+.name{
+  position: absolute;
+  right: 1360px;
+  top: 18px;
+}
+.image1{
+
+  position: absolute;
+  right: 1150px;
+  top: 130px;
+
+}
+.image2{
+
+  position: absolute;
+  right: 700px;
+  top: 130px;
+
+}
+.image3{
+
+  position: absolute;
+  right: 250px;
+  top: 130px;
+
+}
+.time{
+  position: absolute;
+  right: 950px;
+  top: 230px;
+}
+.thumb{
+  position: absolute;
+  right: 550px;
+  top: 230px;
+}
+.secure{
+  position: absolute;
+  right: 80px;
+  top: 230px;
+}

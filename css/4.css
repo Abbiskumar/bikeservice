@@ -1,0 +1,23 @@
+.header{
+   background: white;
+   padding:5px;
+   text-align: center;
+}
+.image{
+
+  position: absolute;
+  right: 1400px;
+  top: 10px;
+
+}
+.name{
+  position: absolute;
+  right: 1360px;
+  top: 18px;
+}
+.submit{
+  position: absolute;
+  top: 150px;
+  right: 100px;
+  width: 400px;
+}

@@ -1,0 +1,48 @@
+.header{
+   background: white;
+   padding:5px;
+   text-align: center;
+}
+.login{
+  position: absolute;
+  top: 250px;
+  right: 100px;
+  width: 400px;
+}
+.no{
+
+  position: absolute;
+  right: 30px;
+  top: 30px;
+}
+.image{
+
+  position: absolute;
+  right: 1400px;
+  top: 10px;
+
+}
+.name{
+  position: absolute;
+  right: 1360px;
+  top: 18px;
+}
+
+.name2{
+  position: absolute;
+  right: 445px;
+  top: 150px;
+}
+
+.name3{
+  position: absolute;
+  right: 405px;
+  top: 380px;
+}
+.Signin{
+  position: absolute;
+  top: 395px;
+  right: 330px;
+  width: 60px;
+
+}

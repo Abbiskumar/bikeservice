@@ -1,0 +1,56 @@
+.header{
+   background: white;
+   padding:1px;
+   text-align: center;
+}
+.text{
+
+  position:absolute;
+  right: 180px;
+  top:60px;
+}
+.text1{
+
+  position:absolute;
+  right: 50px;
+  top:60px;
+}
+.image{
+
+  position: absolute;
+  right: 1410px;
+  top: 35px;
+
+}
+.name{
+  position: absolute;
+  right: 1370px;
+  top: 45px;
+}
+.name1{
+  position: absolute;
+  right: 1060px;
+  top: 200px;
+}
+.name2{
+  position: absolute;
+  right: 1100px;
+  top: 250px;
+}
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+}
+.booknow{
+  position: absolute;
+  right: 1170px;
+  top: 330px;
+}
+
+.impp{
+  position: absolute;
+  top: 400px;
+}

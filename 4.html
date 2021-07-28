@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="css/4.css">
+  <style>
+    body{
+
+        background-image:url('image/back.png');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    </style>
+  </head>
+  <body>
+    <img class="image" src="image/logo.jpg" height="80px" width="80px" >
+    <h2 class="name"> BSC </h2>
+    <div class="header">
+      <h1>Bike Service Center</h1>
+    </div>
+
+    <div class="submit">
+      <h2>Service Count : </h2><h2 id="count"></h2>
+        <form action="mailto:abbiskumar809@gmail.com" method="post" enctype="text/plain" onsubmit="reduceCount()">
+          <lable style="font-size:30px">Full Name :</lable>
+            <input type="text" name="Name" value="" required>
+            <br>
+            <br>
+          <label style="font-size:30px">Mobile Number :</label>
+            <input  type="text" name="Number" value="" required>
+            <br>
+            <br>
+            <label style="font-size:30px">Email :</label>
+              <input  type="email" name="Mail" value="" required>
+              <br>
+              <br>
+              <label style="font-size:30px">Bike Model :</label>
+                <input  type="text" name="Bikemodel" value="" required>
+                <br>
+                <br>
+                <label style="font-size:30px">Bike Number :</label>
+                  <input  type="text" name="Bikenumber" value="" required>
+                  <br>
+                  <br>
+                  <label style="font-size:30px">Address :</label>
+                    <input  type="text" name="Address" value="" required>
+                    <br>
+                    <br>
+                    <label style="font-size:30px">Any specific Issues ? :</label>
+                      <textarea name=”SpecificIssues” rows=”6″ cols=”20″></textarea>
+                      <br>
+                      <br>
+                      <button id="count1" type="submit" value="Submit">
+                        submit
+                      </button>
+        </form>
+  </div>
+<script src="count.js"></script>
+
+
+
+  </body>
+</html>
